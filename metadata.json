@@ -1,0 +1,5 @@
+{
+  "name": "PixelBunny",
+  "description": "A retro-style image processor that converts photos into aesthetic 1-bit and pixel art styles using advanced dithering algorithms.",
+  "requestFramePermissions": []
+}
